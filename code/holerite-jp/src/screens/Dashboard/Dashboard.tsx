@@ -1,4 +1,4 @@
-import Center from "../components/utils/Center";
+import Center from "../../components/utils/Center";
 
 export default function Dashboard() {
   return (

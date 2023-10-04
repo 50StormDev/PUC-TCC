@@ -1,4 +1,4 @@
-import Dashboard from "../screens/Dashboard";
+import Dashboard from "../screens/Dashboard/Dashboard";
 import SignIn from "../screens/Login";
 import Home from "../screens/Perfil";
 import SmartForm from "../screens/Simulador";
